@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "^12.6.1",
+    "got": "^14.4.2",
     "object-path-set": "^1.0.2"
   }
 }
